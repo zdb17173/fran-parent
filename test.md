@@ -2,7 +2,7 @@
 
 **bold text**
 
-*italic \* text*
+*italic text*
 
 ~~~~
 sad
